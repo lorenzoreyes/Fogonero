@@ -1,6 +1,5 @@
-# Flying to Mars \n
-## Guessing Elon Musk Crypto Portfolio \n
-## Excel with all data to check
+# Flying to Mars: Guessing Elon Musk Crypto Portfolio 
+> Excel with all data to check
 
 So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfolio. Ok, ok, I know that according to academia fundamentals current crypto currencies cannot be defined under the standards of a proper currency due mainly to it risk and that it is not attached to the activity of any economy. But, I just want to build it and play the game, so that's why I made this. And also Benjamin Graham suggest that if you want to gamble, do it but limit your bet to the 10% value of your budget.
 
