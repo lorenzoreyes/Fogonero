@@ -5,7 +5,7 @@ So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfol
 
 # Therefore, lets build a crypto portfolio, or as Musk desires, let fly to Mars.
 
-<img src="FlyingMars.png.png"?raw=true" width="70%" height="70%" alt="investments analyse" title="investments analyse">
+<img src="FlyingMars.png.png?raw=true" width="70%" height="70%" alt="portfolio" title="portfolio">
 
 
 First of all, we start by gathering the data, do proper backtest, statistics, and with that results apply different methods to optimize (sharpe ratio, sortino ratio, minimum variance, component value-at-risk...). Our goal basicly is to obtain a combination that enables us to have a lower volatility that if we just select any of the assets and put all eggs in one basket.
