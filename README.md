@@ -28,8 +28,15 @@ As a result, we end up rebalancing our weights by each month. By using the metho
 ![January](January21.png?raw=true "January")
 
 
-We will end up with a column ['liquidityToReinvest'] that relates to the amount of money we couldn't allocate by following the weights specified by the optimizer. This comes in handy when we have to rebalance, because will give us the flexibility to connect previous portfolio composition from the succesive month and so on to iterate, it helps to rebalance, reinvest our performance and pass from one composition to another.
+We will end up with a column ['liquidityToReinvest'] that relates to the amount of money we couldn't allocate by following the weights specified by the optimizer. This comes in handy when we have to rebalance, because will give us the flexibility to connect previous portfolio composition from the succesive month and so on to iterate, it helps to rebalance, reinvest our performance and pass from one composition to another. And also we want our weights to fluctuate, not to concentrate positions, to get ups and downs will
+tell us the optimizer rebuilds the weights properly.
 
+![Weights](CryptoWeights.png?raw=true "Weights")
+
+# Final.
+
+This investment wall planned with 100 million dollars (or $$99.999.681,37 invested), or a penny in Elon Musk terms. It ended with $ $1.624.833.726,88 
+column notionalToday of Febraury. The return was 16,24 times initial capital, hope it convinces you over Buy-and-Hold Strategy.
 
 
 # WARNING WARNING WARNING
