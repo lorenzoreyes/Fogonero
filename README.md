@@ -1,7 +1,7 @@
 # Flying to Mars: Guessing Elon Musk Crypto Portfolio 
 > Excel with all data to check
 
-So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfolio. Ok, ok, I know that according to academia fundamentals current crypto currencies cannot be defined under the standards of a proper currency due mainly to it risk and that it is not attached to the activity of any economy. But, I just want to build it and play the game, so that's why I made this. And also Benjamin Graham suggest that if you want to gamble, do it but limit your bet to the 10% value of your budget.
+So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfolio. Ok, ok, I know that according to academia fundamentals current crypto currencies cannot be defined under the standards of a proper currency, due mainly to it risk and that it is not attached to the activity of any economy. But, I just want to build it and play the game, so that's why I made this. And also Benjamin Graham suggest that if you want to gamble, do it but limit your bet to the 10% value of your portfolio.
 
 ### Therefore, lets build a crypto portfolio, or as Musk desires, lets fly to Mars.
 
@@ -15,6 +15,7 @@ First of all, we start by gathering the data, do proper backtest, statistics, an
 #  Performance && Statistics. Getting the safest portfolio
 
 ![BuynHold](BuynHold.png?raw=true "BuyAndHold")
+Final row we have 'portfolio' with the lowest volatility.
 ![stats](Statistics.png?raw=true "Stats")
 
 
@@ -44,3 +45,4 @@ column notionalToday of Febraury. The return was 16,24 times initial capital, ho
 
 This analysis can be improved. I did not want to write a book, but we can add warnings to monitor our investment. Such as a relational simple-moving-average to
 check if we are in a bullish trend or not. Try to add something and remake this by doing it your own, just copy-paste you will not have an idea of the process.
+Check the excel provided to do proper backtest.
