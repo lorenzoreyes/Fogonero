@@ -10,7 +10,7 @@ So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfol
 
 First of all, we start by gathering the data, do proper backtest, statistics, and with that results apply different methods to optimize (sharpe ratio, sortino ratio, minimum variance, component value-at-risk...). Our goal basicly is to obtain a combination that enables us to have a lower volatility that if we just select any of the assets and put all eggs in one basket.
 
-# Screenshoot of portfolio to start with.
+![Setting](Setting.png?raw=true "Initial Setting")
 
 Now lets simulate what was the time series and how our portfolio did.
 & how diversification helps us to eliminate market risk.
