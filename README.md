@@ -31,7 +31,7 @@ As a result, we end up rebalancing our weights by each month. By using the metho
 We will end up with a column ['liquidityToReinvest'] that relates to the amount of money we couldn't allocate by following the weights specified by the optimizer. This comes in handy when we have to rebalance, because will give us the flexibility to connect previous portfolio composition from the succesive month and so on to iterate, it helps to rebalance, reinvest our performance and pass from one composition to another. And also we want our weights to fluctuate, not to concentrate positions, to get ups and downs will
 tell us the optimizer rebuilds the weights properly.
 
-![Weights](CryptoWeights.png?raw=true "Weights")
+![Weights](CryptoWeigths.png?raw=true "Weights")
 
 # Final.
 
