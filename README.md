@@ -15,7 +15,9 @@ First of all, we start by gathering the data, do proper backtest, statistics, an
 #  Performance && Statistics. Getting the safest portfolio
 
 ![BuynHold](BuynHold.png?raw=true "BuyAndHold")
-Final row we have 'portfolio' with the lowest volatility.
+
+>Final row we have 'portfolio' with the lowest volatility.
+
 ![stats](Statistics.png?raw=true "Stats")
 
 
