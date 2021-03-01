@@ -3,7 +3,7 @@
 
 So, after Elon Musk & Dogecoin episode lately I wanted to build a crypto portfolio. Ok, ok, I know that according to academia fundamentals current crypto currencies cannot be defined under the standards of a proper currency due mainly to it risk and that it is not attached to the activity of any economy. But, I just want to build it and play the game, so that's why I made this. And also Benjamin Graham suggest that if you want to gamble, do it but limit your bet to the 10% value of your budget.
 
-# Therefore, lets build a crypto portfolio, or as Musk desires, let fly to Mars.
+## Therefore, lets build a crypto portfolio, or as Musk desires, let fly to Mars.
 
 <img src="Flying.png?raw=true" width="70%" height="70%" alt="portfolio" title="portfolio">
 
