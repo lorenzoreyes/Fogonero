@@ -37,7 +37,7 @@ tell us the optimizer rebuilds the weights properly.
 
 # Final.
 
-This investment wall planned with 100 million dollars (or $$99.999.681,37 invested), or a penny in Elon Musk terms. It ended with $1.624.833.726,88 
+This investment wall planned with 100 million dollars (or $99.999.681,37 invested), or a penny in Elon Musk terms. It ended with $1.624.833.726,88 
 column notionalToday of Febraury. The return was 16,24 times initial capital, hope it convinces you over Buy-and-Hold Strategy.
 
 
